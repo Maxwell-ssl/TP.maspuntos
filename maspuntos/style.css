@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
+.head button{
+    text-align: center;
+    font-size: 30;
+    padding: 20px;
+    background-color: aqua;
+    color: #000000;
+    margin: 20px auto;
+    border-radius: 30px;
+    width: 250px;
+    align-items: center;  
+}
+.head button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+  }
+.head{
+    text-align: center;
+    font-size: 18px; 
+    color: white;   
+}
+#one{
+    text-align: center;
+    font-size: 30;
+    padding: 20px;
+    background-color: aqua;
+    color: #000000;
+    margin: 15px auto;
+    border-radius: 30px;
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#one:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+  }
